@@ -211,3 +211,12 @@ license: CC-BY-SA 3.0
 engine: mediawiki
 engine_options:
   api_endpoint: "https://ko.wikiquote.org/w/api.php"
+
+---
+id: wikibooks-ko
+name: 한국어 위키책
+url: "https://ko.wikibooks.org/"
+license: CC-BY-SA 3.0
+engine: mediawiki
+engine_options:
+  api_endpoint: "https://ko.wikibooks.org/w/api.php"
